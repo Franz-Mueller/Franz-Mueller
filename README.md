@@ -7,7 +7,6 @@ This is my profile README.md. How do you like it?
 - 😄 Pronouns: he/him
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franz-Mueller&hide=javascript,css,scss,html&layout=donut&stats_format=bytes&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franz-Mueller&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Jokes
