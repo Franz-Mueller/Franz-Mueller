@@ -6,7 +6,7 @@ This is my profile README.md. How do you like it?
 - 🌱 I’m currently learning Rust 🦀
 - 😄 Pronouns: he/him
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franz-Mueller&hide=javascript,css,scss,html&layout=donut&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franz-Mueller&hide=javascript,css,scss,html&layout=compact)
 
 ## Jokes
 
