@@ -13,4 +13,4 @@ This is my profile README.md. How do you like it?
 
 🐋 What does the docker container say to the doctor? "Please help me, I feel so isolated."
 
-🍸 A SQL query goes into a bar, walks up to two tables and asks: "Might if I sub select you?"
+🍸 A SQL query goes into a bar, walks up to two tables and asks: "Mind if I sub select you?"
